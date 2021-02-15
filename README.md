@@ -1,4 +1,4 @@
-# Luke's build of dwm
+# My build of dwm from Luke's forks
 
 ## FAQ
 
